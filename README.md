@@ -45,7 +45,13 @@
     ### Build a regression tree model to predict sales.
       Build a simple regression tree model.
       Compare the performance of the model based on r^2.
-      Compare the performance of the model based on rmse.  
+      Compare the performance of the model based on rmse.
+   
+    ## Part 7
+      Compare models
+   
+      
+   
       
       
         
