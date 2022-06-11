@@ -48,8 +48,8 @@
       Compare the performance of the model based on rmse.
    
     ## Part 7
-      Compare models
-   
+    ### Compare models
+      By looking at all of the models we are able to see that the R2 model performed best on the test set. Therefor the R2 model is the best model to use.
       
    
       
