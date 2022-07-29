@@ -49,7 +49,7 @@
    
     ## Part 7
     ### Compare models
-      By looking at all of the models we are able to see that the R2 model performed best on the test set. Therefor the R2 model is the best model to use.
+      By looking at all of the models we are able to see that the R2 model performed best on the test set. Therefor the R2 model is the best model to use..
       
    
       
