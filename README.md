@@ -43,13 +43,13 @@
       Evaluate the performance of the model based on r^2.
       Evaluate the performance of the model based on rmse.
     ### Build a regression tree model to predict sales.
-      Build a simple regression tree model.
+      Build a decision tree regression model.
       Compare the performance of the model based on r^2.
       Compare the performance of the model based on rmse.
    
-    ## Part 7
+    ## Part
     ### Compare models
-      By looking at all of the models we are able to see that the R2 model performed best on the test set. Therefor the R2 model is the best model to use..
+      By looking at all of the models we are able to see that the linear regression R2 model performed best on the test set. Therefor the linear regression R2 model is the best model to use..
       
    
       
