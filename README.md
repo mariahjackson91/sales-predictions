@@ -47,8 +47,9 @@
       Compare the performance of the model based on r^2.
       Compare the performance of the model based on rmse.
    
-    ## Part
-    ### Compare models
+  
+    
+  # Evaluation
       By looking at all of the models we are able to see that the linear regression R2 model performed best on the test set. Therefor the linear regression R2 model is the best model to use..
       
    
