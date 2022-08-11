@@ -21,18 +21,18 @@
       Item_Outlet_Sales	Sales of the product in the particular store. This is the target variable to be predicted.
    
    # Steps: 
-     ## Part 1
-     ### Use Pandas to read in the sales prediction data set into a Google Colab Notebook and verify the data by using the df.head() command.
-     ## Part 2
-     ### Use Pandas to start cleaning and exploring the data.
-     ## Part 3
-     ### Complete any statistical analyses that help understand, explain, or model with the data. Includes one of each:
+      Part 1
+      Use Pandas to read in the sales prediction data set into a Google Colab Notebook and verify the data by using the df.head() command.
+      Part 2
+      Use Pandas to start cleaning and exploring the data.
+      Part 3
+      Complete any statistical analyses that help understand, explain, or model with the data. Includes one of each:
           Histogram to view the distributions of various features in your dataset.
           Boxplot to view statistical summaries of various features in your dataset.
           Heatmap of the correlation between features.
-     ## Part 4
-     ### Build several data visualizations to help your stakeholders better understand trends in the data.
-     ## Part 5
+      Part 4
+      Build several data visualizations to help your stakeholders better understand trends in the data.
+      Part 5
      ### Use machine learning to make predictions about future sales based on the data provided.
            Identify the features (X) and target (y): Assign the "Item_Outlet_Sales" column as the target and the rest of the relevant variables as the features matrix. 
            Perform a train test split 
